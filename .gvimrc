@@ -1,0 +1,5 @@
+set guifont=Consolas:h18
+
+if has("gui_macvim")
+  macmenu &File.Print key=<nop>
+endif
