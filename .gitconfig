@@ -1,0 +1,13 @@
+[user]
+	name = Hugh Crail
+	email = hughcrail@gmail.com
+[alias]
+	co = checkout
+	logdog = log --decorate --oneline --graph
+[core]
+	editor = vim
+	excludesfile = ~/.gitignore
+[github]
+	user = HughCrail
+[merge]
+	tool = mvimdiff
